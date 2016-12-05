@@ -1,6 +1,7 @@
 #STARTER WEB PROJECT
 
 simple website project
+add new text
 
 ## MORE INFO
 
