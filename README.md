@@ -4,6 +4,8 @@ simple website project
 
 ## MORE INFO
 
+more text
+
 ## purpose
 
 ## deployment
