@@ -1,5 +1,7 @@
 #STARTER WEB PROJECT
 
+simple website project
+
 ## MORE INFO
 
 ## purpose
